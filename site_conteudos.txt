@@ -25,3 +25,17 @@ https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991
 https://www.devmedia.com.br/trabalhando-com-excecoes-em-java/27601
 
 https://www.devmedia.com.br/entendendo-e-aplicando-heranca-em-java/24544
+
+https://www.devmedia.com.br/entendendo-interfaces-em-java/25502
+
+https://www.devmedia.com.br/java-interface-aprenda-a-usar-corretamente/28798
+
+https://www.devmedia.com.br/polimorfismo-classes-abstratas-e-interfaces-fundamentos-da-poo-em-java/26387
+
+https://www.devmedia.com.br/conceitos-classes-abstratas-programacao-orientada-a-objetos/18812
+
+https://www.devmedia.com.br/conceitos-classes-abstratas-programacao-orientada-a-objetos/18812
+
+https://www.devmedia.com.br/entendendo-anotacoes-em-java/26772
+
+https://www.devmedia.com.br/java-reflection-parte-i/4888
