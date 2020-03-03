@@ -39,3 +39,13 @@ https://www.devmedia.com.br/conceitos-classes-abstratas-programacao-orientada-a-
 https://www.devmedia.com.br/entendendo-anotacoes-em-java/26772
 
 https://www.devmedia.com.br/java-reflection-parte-i/4888
+
+https://www.pgadmin.org/download/
+
+https://www.digitalocean.com/community/tutorials/como-instalar-e-utilizar-o-postgresql-no-ubuntu-16-04-pt
+
+https://www.devmedia.com.br/instalando-postgresql/23364
+
+https://www.postgresqltutorial.com/
+
+https://www.devmedia.com.br/guia/hibernate/38312
