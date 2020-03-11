@@ -49,3 +49,13 @@ https://www.devmedia.com.br/instalando-postgresql/23364
 https://www.postgresqltutorial.com/
 
 https://www.devmedia.com.br/guia/hibernate/38312
+
+https://www.baeldung.com/spring-data-annotations
+
+https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference
+
+https://www.baeldung.com/database-auditing-jpa
+
+https://www.baeldung.com/spring-data-jpa-query
+
+https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-introduction-to-query-methods/
