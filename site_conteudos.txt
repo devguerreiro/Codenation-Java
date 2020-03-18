@@ -59,3 +59,15 @@ https://www.baeldung.com/database-auditing-jpa
 https://www.baeldung.com/spring-data-jpa-query
 
 https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-introduction-to-query-methods/
+
+https://reflectoring.io/bean-validation-with-spring-boot/
+
+https://www.baeldung.com/spring-boot-bean-validation
+
+https://www.baeldung.com/spring-response-status
+
+https://www.baeldung.com/exception-handling-for-rest-with-spring
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+
+https://blog.caelum.com.br/rest-principios-e-boas-praticas/
