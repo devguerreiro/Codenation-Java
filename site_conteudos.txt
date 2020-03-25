@@ -71,3 +71,17 @@ https://www.baeldung.com/exception-handling-for-rest-with-spring
 https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
 
 https://blog.caelum.com.br/rest-principios-e-boas-praticas/
+
+https://www.youtube.com/watch?v=UsM2BY20Ux4
+
+https://www.digitalocean.com/community/tutorials/uma-introducao-ao-oauth-2-pt
+
+https://academiadev.gitbook.io/joinville/seguranca/oauth2
+
+https://blog.caelum.com.br/modelando-apis-rest-com-swagger/
+
+https://swagger.io/docs/
+
+https://springfox.github.io/springfox/
+
+https://blog.algaworks.com/spring-security/
