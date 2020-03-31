@@ -85,3 +85,20 @@ https://swagger.io/docs/
 https://springfox.github.io/springfox/
 
 https://blog.algaworks.com/spring-security/
+
+https://blog.caelum.com.br/principios-do-codigo-solido-na-orientacao-a-objetos/
+
+https://medium.com/@mari_azevedo/princ%C3%ADpios-s-o-l-i-d-o-que-s%C3%A3o-e-porque-projetos-devem-utiliz%C3%A1-los-bf496b82b299
+
+https://becode.com.br/clean-code/
+
+https://pt.slideshare.net/rodrigokono/boas-prticas-tcnica-para-um-cdigo-limpo-clean-code
+
+https://williamdurand.fr/2013/06/03/object-calisthenics/
+
+https://www.devmedia.com.br/test-driven-development-tdd-simples-e-pratico/18533
+
+https://knowledge21.com.br/blog/qualidade-de-software-com-tdd-test-driven-development/
+
+https://www.devmedia.com.br/introducao-ao-desenvolvimento-guiado-por-teste-tdd-com-junit/26559
+
