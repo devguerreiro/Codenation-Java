@@ -102,3 +102,12 @@ https://knowledge21.com.br/blog/qualidade-de-software-com-tdd-test-driven-develo
 
 https://www.devmedia.com.br/introducao-ao-desenvolvimento-guiado-por-teste-tdd-com-junit/26559
 
+https://www.redhat.com/pt-br/topics/devops
+
+https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd
+
+https://heroku.com/
+
+https://maven.apache.org/
+
+https://blog.caelum.com.br/processo-de-build-com-o-maven/
