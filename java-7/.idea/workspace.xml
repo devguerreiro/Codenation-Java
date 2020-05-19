@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9b637be-daf6-4b90-93d1-2429634b02fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1YAIDpgMgxkQoz4cRu19ifqZGuB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.EstacionamentoTest">
+    <configuration name="EstacionamentoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.EstacionamentoTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EstacionamentoTest.deveRetorarErroQuandoPontosNegativos" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.EstacionamentoTest.deveRetorarErroQuandoPontosNegativos&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EstacionamentoTest.deveRetornarErroQuandoNaoTemCor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.EstacionamentoTest.deveRetornarErroQuandoNaoTemCor&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EstacionamentoTest.naoDeveTerCarroAutonomo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.EstacionamentoTest.naoDeveTerCarroAutonomo&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.EstacionamentoTest" />
+        <item itemvalue="Gradle.EstacionamentoTest.deveRetorarErroQuandoPontosNegativos" />
+        <item itemvalue="Gradle.EstacionamentoTest.naoDeveTerCarroAutonomo" />
+        <item itemvalue="Gradle.EstacionamentoTest.deveRetornarErroQuandoNaoTemCor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="263" key="GridCell.Tab.0.bottom" timestamp="1582563376942">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.bottom/0.27.1920.1006@0.27.1920.1006" timestamp="1582563376942" />
+    <state width="1874" height="263" key="GridCell.Tab.0.center" timestamp="1582563376940">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.center/0.27.1920.1006@0.27.1920.1006" timestamp="1582563376940" />
+    <state width="1874" height="263" key="GridCell.Tab.0.left" timestamp="1582563376940">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.left/0.27.1920.1006@0.27.1920.1006" timestamp="1582563376940" />
+    <state width="1874" height="263" key="GridCell.Tab.0.right" timestamp="1582563376941">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.right/0.27.1920.1006@0.27.1920.1006" timestamp="1582563376941" />
+  </component>
+</project>

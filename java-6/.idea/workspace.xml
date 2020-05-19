@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5041910-212e-4527-9b68-9019510aa4e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XjQ4m2AbG04sqrsb1pH0zdUdZ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CriptografiaCesariana">
+    <configuration name="CriptografiaCesariana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.CriptografiaCesariana" />
+      <module name="java-6.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriptografiaCesarianaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.CriptografiaCesarianaTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CriptografiaCesarianaTest.deveRetornarErroQuandoOCriptografaTextoEhVazio" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenge.CriptografiaCesarianaTest.deveRetornarErroQuandoOCriptografaTextoEhVazio&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CriptografiaCesariana" />
+        <item itemvalue="Gradle.CriptografiaCesarianaTest.deveRetornarErroQuandoOCriptografaTextoEhVazio" />
+        <item itemvalue="Gradle.CriptografiaCesarianaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="701" y="291" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581630669875">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="701" y="291" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1581630669875" />
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom" timestamp="1581867206610">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1581867206610" />
+    <state width="1354" height="260" key="GridCell.Tab.0.center" timestamp="1581867206608">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1581867206608" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left" timestamp="1581867206608">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1581867206608" />
+    <state width="1354" height="260" key="GridCell.Tab.0.right" timestamp="1581867206609">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1581867206609" />
+    <state x="624" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1581625199906">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="624" y="369" key="com.intellij.ide.util.TipDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1581625199906" />
+    <state x="647" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1581559308124">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="647" y="272" width="672" height="678" key="search.everywhere.popup/49.27.1871.1053@49.27.1871.1053" timestamp="1581559308124" />
+  </component>
+</project>

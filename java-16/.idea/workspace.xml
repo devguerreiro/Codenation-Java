@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8809127e-264d-4003-b4fd-1f636aee2de7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZuKbaJ7z2z20WNwiKd3rvNZ7Y3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BillingProcessorTest.testCashPayment" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;br.com.codenation.BillingProcessorTest.testCashPayment&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.BillingProcessorTest.testCashPayment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="241" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1585684484712">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="768" y="241" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1585684484712" />
+    <state width="1874" height="263" key="GridCell.Tab.0.bottom" timestamp="1585688729993">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.bottom/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1585688729993" />
+    <state width="1874" height="263" key="GridCell.Tab.0.center" timestamp="1585688729992">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.center/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1585688729992" />
+    <state width="1874" height="263" key="GridCell.Tab.0.left" timestamp="1585688729992">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.left/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1585688729992" />
+    <state width="1874" height="263" key="GridCell.Tab.0.right" timestamp="1585688729993">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state width="1874" height="263" key="GridCell.Tab.0.right/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1585688729993" />
+  </component>
+</project>

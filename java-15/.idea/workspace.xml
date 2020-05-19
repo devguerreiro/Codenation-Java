@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1880c454-e3f9-48d0-b6e0-565ee254fa7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1Z91swaxs15mXYnxroUloK0MPBw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-10" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="191" width="800" height="677" key="#Inspections" timestamp="1584560565521">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="958" y="191" width="800" height="677" key="#Inspections/0.27.1920.1006@0.27.1920.1006" timestamp="1584560565521" />
+    <state x="1161" y="288" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584236943412">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="1161" y="288" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1006@0.27.1920.1006" timestamp="1584236943412" />
+  </component>
+</project>
